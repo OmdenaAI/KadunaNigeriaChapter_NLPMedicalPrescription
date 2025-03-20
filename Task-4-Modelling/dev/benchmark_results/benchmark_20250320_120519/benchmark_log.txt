@@ -1,0 +1,14 @@
+============================================================
+Medical Advisor Models Benchmark - 2025-03-20 12:05:19
+============================================================
+Data file: ../data/combined_diseases_v2.csv
+Number of random test cases: 50
+Include real-world examples: False
+Use mock LLM: False
+Results will be saved to: benchmark_results/benchmark_20250320_120519
+============================================================
+Loading data from: ../data/combined_diseases_v2.csv
+Initializing models...
+Loaded 2703 medical conditions
+Loaded and preprocessed 2703 medical conditions
+Loaded and preprocessed 2703 medical conditions

@@ -1,0 +1,21 @@
+true_disease,symptoms,diagnosis
+Yaws,Skin sores,
+Carcinoid Syndrome (Tumor)," diarrhea, wheezing."," CT,Urine 5HIAA"
+Sporotrichosis,"Skin nodules, rose exposure",
+HIV/AIDS," weight loss,Fever", CD4 count.
+Chronic Bronchitis,"Productive cough, wheezing", history (>3 months).
+Anxiety Disorders (Entry 2)," sweating, insomnia.", Hamilton Anxiety Scale.
+Trypanosomiasis," rash, sleeping sickness., lymph node swelling",
+Glaucoma/Intraocular Hypertension,"Eye pain, vision loss",Tonometry (IOP >21 mmHg)
+Aortic Insufficiency," fatigue,Dyspnea", ECG (LVH).
+Gout," redness.,Acute toe pain",
+EVAR (Endovascular Aortic Aneurysm Repair),Postop groin pain,
+Psoriatic Arthropathy," nail pitting., swelling",
+Cardiogenic Shock,"Hypotension, cold extremities, oliguria", lactate (>2 mmol/L)
+Substance Abuse, withdrawal, clinical
+Bipolar Disorder,"Mood swings, depression",DSM5 criteria
+Hypokalemia,"Weakness, palpitations", ECG (U waves).
+Alcoholism and Alcohol Abuse," tolerance, organ damage, withdrawal",
+Giant Cell Arteritis," scalp tenderness., vision loss,Headache",Temporal artery biopsy
+Pancreatic Cysts, abdominal pain, fluid analysis (CEA)
+Miliary Tuberculosis," cough, small lung nodules.",

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Common Cold",
+    "true_disease": "Cold",
+    "symptoms": "Runny nose, sore throat, coughing, mild fever, fatigue",
+    "diagnosis": ""
+  },
+  {
+    "name": "Diabetes Type 2",
+    "true_disease": "Type 2 Diabetes",
+    "symptoms": "Frequent urination, increased thirst, unexplained weight loss, fatigue, blurred vision",
+    "diagnosis": "Blood glucose level 240 mg/dL"
+  },
+  {
+    "name": "Migraine",
+    "true_disease": "Migraine",
+    "symptoms": "Severe headache on one side, sensitivity to light and sound, nausea, vision changes",
+    "diagnosis": ""
+  },
+  {
+    "name": "Pneumonia",
+    "true_disease": "Pneumonia",
+    "symptoms": "High fever, cough with phlegm, difficulty breathing, chest pain, fatigue",
+    "diagnosis": "Chest X-ray shows infiltrates in lower left lobe"
+  },
+  {
+    "name": "Appendicitis",
+    "true_disease": "Appendicitis",
+    "symptoms": "Sharp pain in lower right abdomen, nausea, vomiting, loss of appetite, low fever",
+    "diagnosis": "White blood cell count elevated"
+  }
+]
