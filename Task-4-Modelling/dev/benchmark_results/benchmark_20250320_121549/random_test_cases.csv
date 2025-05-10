@@ -1,0 +1,51 @@
+true_disease,symptoms,diagnosis
+Raynaud’s Disease," color changes, pain",
+Bacterial Diarrhea,"Watery stools, fever, cramps"," PCR, history"
+Sexually Transmitted Disease (STD) Treatments,Varies (e.g., serology.
+Primary Immunoglobulin A Nephropathy," hypertension,Hematuria",
+Sjögren’s Syndrome," joint pain, fatigue.",AntiSSA/SSB antibodies
+"Meningitis, Streptococcus Group B","Fever, poor feeding (neonates)",
+Peripheral Vascular Disease," cold extremities, weak pulses.",Anklebrachial index (<0.9)
+Bone Metastases," weakness, hypercalcemia.", Xray
+LVAD (Left Ventricular Assist Device),(Pretreatment) Endstage heart failure.,"Echo, cath"
+IgA Nephropathy," proteinuria,Hematuria",
+Thyroid Hemorrhage/Infarction," swelling,Neck pain", labs (TSH)
+Leg Pain (NonSpecific)," numbness, swelling.", Doppler ultrasound
+High Triglycerides (Hypertriglyceridemia)," xanthomas., abdominal pain (if severe)",
+Tussis (Cough), varies by cause.,
+Myelodysplastic Syndromes," bleeding., infections",Bone marrow biopsy
+Keratitis Sicca," irritation, redness,Dry eyes", tear breakup time
+Pelvic Organ Prolapse,"Pelvic pressure, urinary issues",
+Ischemic Colitis," bloody diarrhea, fever",
+Coccygectomy, relief of prior pain,Postop Xray
+Hereditary Angioedema,"Sudden swelling (face, dyspnea.",
+Fusariosis," pain,Fever, skin lesions",
+Multinodular Hepatic Hemangiomatosis,Often asymptomatic,
+Snoring, daytime fatigue., physical exam (nasal/throat).
+Diabetic Retinopathy," asymptomatic early., floaters", OCT
+Subconjunctival Hemorrhage, painless, rule out trauma
+Carcinoid Tumor," wheezing, diarrhea",
+"Prostate Cancer (Repeated earlier, alternate entry)",Nocturia, bone scan.
+Tularemia (Rabbit Fever)," ulcer, animal exposure", culture
+Neuroblastoma," fever, fatigue."," urine catecholamines, biopsy."
+Hydrocephalus," gait issues.,Headache",
+Pemphigus Vulgaris," itching.,Painful blisters",
+EatonLambert Syndrome (LEMS)," fatigue,Muscle weakness", VGCC antibodies
+Congestive Heart Failure," breathlessness, rapid pulse.", NTproBNP.
+Wilms’ Tumor, pediatric,Ultrasound/CT (renal mass)
+Hives," swelling, transient rash.,Itchy welts",
+"Cancer, Hypernephroma (Renal Cell Carcinoma)","Hematuria, mass.",
+"Transient Ischemic Attack (TIA, MiniStroke)", speech loss, carotid ultrasound.
+"Eye Infection, Bacterial"," discharge, pain", culture (e.g.
+Addison’s Disease," skin darkening, low BP,Fatigue",
+Hepatitis B Virus (HBV)," dark urine (acute/chronic)., jaundice, abdominal pain",HBsAg
+HutchinsonGilford Syndrome (Progeria)," growth failure,Premature aging, hair loss",LMNA gene mutation
+Gallbladder Cancer, weight loss., biopsy (adenocarcinoma).
+Atypical Mole, color change., biopsy.
+Eczema," dry skin, red,Itchy",Clinical exam
+Radiation Sickness,"Nausea, skin burns", CBC (lymphocyte drop).
+"Food Poisoning, Campylobacter Enteritis","Diarrhea, poultry history",
+Shoulder Impingement Syndrome," weakness,Shoulder pain",
+Laparoscopic Hysterectomy,Postop pelvic pain,
+CRPS (Reflex Sympathetic Dystrophy Syndrome)," swelling, skin changes", imaging
+Sinus Infection (Sinusitis)," fever., discharge",

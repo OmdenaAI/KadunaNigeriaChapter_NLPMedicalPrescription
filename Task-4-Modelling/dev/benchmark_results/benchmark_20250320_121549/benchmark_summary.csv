@@ -1,0 +1,4 @@
+Model,Accuracy (%),Average Rank,Average Confidence (%),Average Time (ms)
+Basic Model,88.0,1.3181818181818181,61.84090909090909,20.164008140563965
+Improved Model,50.0,1.24,62.28,43.799171447753906
+Agentic Model,52.0,1.5,51.42307692307692,1.2134742736816406

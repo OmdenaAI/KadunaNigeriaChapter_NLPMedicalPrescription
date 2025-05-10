@@ -1,0 +1,71 @@
+============================================================
+Medical Advisor Models Benchmark with Bio_ClinicalBERT - 2025-03-20 14:23:01
+============================================================
+Data file: ../data/combined_diseases_v2.csv
+Number of random test cases: 20
+Include real-world examples: True
+Device for BERT: auto
+Models to benchmark: all
+Results will be saved to: benchmark_results/bert_benchmark_20250320_142301
+============================================================
+Loading data from: ../data/combined_diseases_v2.csv
+Initializing Basic Model...
+Loaded 2703 medical conditions
+Initializing Improved Model...
+Loaded and preprocessed 2703 medical conditions
+Initializing BERT Model...
+Using device: cpu
+Loading emilyalsentzer/Bio_ClinicalBERT...
+Generating embeddings for all medical conditions...
+Loaded and preprocessed 2703 medical conditions
+Generating 20 random test cases...
+Random test cases saved to benchmark_results/bert_benchmark_20250320_142301/random_test_cases.csv
+Real test cases saved to benchmark_results/bert_benchmark_20250320_142301/real_test_cases.json
+Running benchmarks on random test cases...
+Running benchmarks on real-world examples...
+
+Benchmark Results:
+=================
+
+Model: Basic Model
+  Accuracy: 95.0%
+  Average Rank: 1.368421052631579
+  Average Confidence: 63.1%
+  Average Processing Time: 25.9 ms
+
+Model: Improved Model
+  Accuracy: 60.0%
+  Average Rank: 1.4166666666666667
+  Average Confidence: 68.8%
+  Average Processing Time: 52.3 ms
+
+Model: BERT Model
+  Accuracy: 20.0%
+  Average Rank: 2.0
+  Average Confidence: 95.5%
+  Average Processing Time: 368.7 ms
+Benchmark summary saved to benchmark_results/bert_benchmark_20250320_142301/benchmark_summary.csv
+
+Real-World Examples Results:
+===========================
+
+Model: Basic Model
+  Success Rate: 80.0%
+  Average Processing Time: 28.9 ms
+  Successful cases: Common Cold, Diabetes Type 2, Migraine, Pneumonia
+  Failed cases: Appendicitis
+
+Model: Improved Model
+  Success Rate: 60.0%
+  Average Processing Time: 66.5 ms
+  Successful cases: Common Cold, Diabetes Type 2, Pneumonia
+  Failed cases: Migraine, Appendicitis
+
+Model: BERT Model
+  Success Rate: 20.0%
+  Average Processing Time: 342.0 ms
+  Successful cases: Diabetes Type 2
+  Failed cases: Common Cold, Migraine, Pneumonia, Appendicitis
+
+Benchmark completed.
+Results saved to: benchmark_results/bert_benchmark_20250320_142301

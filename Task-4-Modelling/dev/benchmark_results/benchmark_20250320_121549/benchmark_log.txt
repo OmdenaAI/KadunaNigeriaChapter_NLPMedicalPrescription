@@ -1,0 +1,46 @@
+============================================================
+Medical Advisor Models Benchmark - 2025-03-20 12:15:49
+============================================================
+Data file: ../data/combined_diseases_v2.csv
+Number of random test cases: 50
+Include real-world examples: False
+Use mock LLM: False
+Results will be saved to: benchmark_results/benchmark_20250320_121549
+============================================================
+Loading data from: ../data/combined_diseases_v2.csv
+Initializing models...
+Loaded 2703 medical conditions
+Loaded and preprocessed 2703 medical conditions
+Loaded and preprocessed 2703 medical conditions
+Warning: Client.__init__() got an unexpected keyword argument 'proxies'
+Attempting to initialize without proxy settings...
+Error initializing OpenAI client: Client.__init__() got an unexpected keyword argument 'proxies'
+Falling back to mock LLM.
+Generating 50 random test cases...
+Random test cases saved to benchmark_results/benchmark_20250320_121549/random_test_cases.csv
+Running benchmarks on random test cases...
+
+Benchmark Results:
+=================
+
+Model: Basic Model
+  Accuracy: 88.0%
+  Average Rank: 1.3181818181818181
+  Average Confidence: 61.8%
+  Average Processing Time: 20.2 ms
+
+Model: Improved Model
+  Accuracy: 50.0%
+  Average Rank: 1.24
+  Average Confidence: 62.3%
+  Average Processing Time: 43.8 ms
+
+Model: Agentic Model
+  Accuracy: 52.0%
+  Average Rank: 1.5
+  Average Confidence: 51.4%
+  Average Processing Time: 1.2 ms
+Benchmark summary saved to benchmark_results/benchmark_20250320_121549/benchmark_summary.csv
+
+Benchmark completed.
+Results saved to: benchmark_results/benchmark_20250320_121549
